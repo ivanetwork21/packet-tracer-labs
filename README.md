@@ -1,4 +1,4 @@
-![Packet Tracer topology](topology1.png)
+![Packet Tracer topology](topology.png)
 # Lab 01 - Packet Tracer Introduction
 
 ## Overview
